@@ -4,6 +4,8 @@ Research developed as the final paper of the Electronic and Telecommunications E
 
 The train and test data can be downloaded <a href="https://drive.google.com/file/d/1ihJGTQKijWHU47GBvjYqOa7XrU0ruudI/view?usp=sharing">here</a>.
 
+The paper can be seen <a href="https://repositorio.ufu.br/handle/123456789/38403">here</a>.
+
 ----------------------------------------------------------------------
 
 # Abstract
